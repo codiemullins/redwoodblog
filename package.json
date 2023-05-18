@@ -21,5 +21,9 @@
   "prisma": {
     "seed": "yarn rw exec seed"
   },
-  "packageManager": "yarn@3.5.1"
+  "packageManager": "yarn@3.5.1",
+  "dependencies": {
+    "@mantine/core": "^6.0.11",
+    "@mantine/hooks": "^6.0.11"
+  }
 }
